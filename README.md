@@ -1,2 +1,2 @@
-# Scalar_Practice
-Scalar practice from online course
+# Scala_Practice
+Scala practice from online course
